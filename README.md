@@ -1,14 +1,18 @@
 # Verified client reviews — George Popadalis
 
-This repository is a source-linked register of client feedback published about George Popadalis on independent review platforms.
+This repository is a source-linked register of client feedback published about George Popadalis and the Black Mountain Financial Google Business listing.
 
 ## Current verified source
 
 - **RateMyAgent:** 27 reviews, 5.0 average rating at the time of verification
+- **Google:** 13 reviews, 5.0 average rating at the time of verification
 - **Verified:** 10 October 2026
 - **Source profile:** [George Popadalis — RateMyAgent](https://www.ratemyagent.com.au/mortgage-broker/george-popadalis-hu842/finance/reviews)
+- **Google Business source:** [Black Mountain Financial on Google](https://www.google.com/search?kgmid=/g/11t5xz3jd9)
 
 Every entry in [`reviews.json`](reviews.json) links to its individual RateMyAgent review page. Short excerpts are reproduced to identify the review; the third-party source remains the record of the complete text, reviewer attribution and current status.
+
+Google reviews are recorded separately in [`reviews-google.json`](reviews-google.json). Google does not expose a stable public permalink for every individual review in the Business Profile manager, so each entry records the reviewer contribution profile, publication date and identifying excerpt. A rating-only review is identified as such. Feedback concerning another adviser on the business listing is not attributed personally to George.
 
 ## Why this register exists
 

@@ -1,0 +1,121 @@
+{
+  "subject": {
+    "name": "Black Mountain Financial",
+    "url": "https://blackmountainfinancial.com.au",
+    "google_business_url": "https://www.google.com/search?kgmid=/g/11t5xz3jd9"
+  },
+  "source": {
+    "name": "Google Business Profile",
+    "rating_value": 5.0,
+    "review_count": 13
+  },
+  "verified_at": "2026-10-10",
+  "notes": "Google does not expose a stable direct public permalink for each review in the Business Profile manager. Reviewer contribution-profile URLs, dates and excerpts are retained as verification references. Reviewer names are intentionally not duplicated in this register.",
+  "reviews": [
+    {
+      "position": 1,
+      "rating": 5,
+      "date_published": "2024-02-04",
+      "attribution_scope": "George Popadalis",
+      "excerpt": "I had the pleasure of working with George, when my family and I were buying our first home in Goulburn.",
+      "reviewer_profile_url": "https://www.google.com/maps/contrib/112021472911420521869/reviews?hl=en-GB"
+    },
+    {
+      "position": 2,
+      "rating": 5,
+      "date_published": "2024-02-02",
+      "attribution_scope": "George Popadalis",
+      "excerpt": "Best mortgage broker in Goulburn! I thought my situation might be too complex but George was able to help.",
+      "reviewer_profile_url": "https://www.google.com/maps/contrib/116285308889741451013/reviews?hl=en-GB"
+    },
+    {
+      "position": 3,
+      "rating": 5,
+      "date_published": "2023-05-17",
+      "attribution_scope": "George Popadalis",
+      "excerpt": "Absolutely exceptional service! George was unbelievably quick and helpful and provided so much guidance throughout the entire process.",
+      "reviewer_profile_url": "https://www.google.com/maps/contrib/118080571654444509161/reviews?hl=en-GB"
+    },
+    {
+      "position": 4,
+      "rating": 5,
+      "date_published": "2023-04-21",
+      "attribution_scope": "George Popadalis",
+      "excerpt": "Excellent service - I was always kept up to date and everything was easy to handle including settlement.",
+      "reviewer_profile_url": "https://www.google.com/maps/contrib/105017855918084020889/reviews?hl=en-GB"
+    },
+    {
+      "position": 5,
+      "rating": 5,
+      "date_published": "2023-04-03",
+      "attribution_scope": "George Popadalis",
+      "excerpt": "My partner and I had the absolutely best experience using George as our mortgage broker.",
+      "reviewer_profile_url": "https://www.google.com/maps/contrib/118300319358832470969/reviews?hl=en-GB"
+    },
+    {
+      "position": 6,
+      "rating": 5,
+      "date_published": "2023-01-13",
+      "attribution_scope": "Black Mountain Financial listing",
+      "excerpt": null,
+      "rating_only": true,
+      "reviewer_profile_url": "https://www.google.com/maps/contrib/107005998211651078859/reviews?hl=en-GB"
+    },
+    {
+      "position": 7,
+      "rating": 5,
+      "date_published": "2023-01-13",
+      "attribution_scope": "George Popadalis",
+      "excerpt": "Great experience with George! Would recommend again",
+      "reviewer_profile_url": "https://www.google.com/maps/contrib/117786673763925952636/reviews?hl=en-GB"
+    },
+    {
+      "position": 8,
+      "rating": 5,
+      "date_published": "2023-01-12",
+      "attribution_scope": "George Popadalis",
+      "excerpt": "I was referred to George through a friend, who claimed he found the best mortgage broker in canberra",
+      "reviewer_profile_url": "https://www.google.com/maps/contrib/104415332261090205781/reviews?hl=en-GB"
+    },
+    {
+      "position": 9,
+      "rating": 5,
+      "date_published": "2023-01-10",
+      "attribution_scope": "George Popadalis",
+      "excerpt": "George at Fetch Loans was amazing to deal with from day one, he educated me on the different first home buyer",
+      "reviewer_profile_url": "https://www.google.com/maps/contrib/110070175343308996869/reviews?hl=en-GB"
+    },
+    {
+      "position": 10,
+      "rating": 5,
+      "date_published": "2023-01-10",
+      "attribution_scope": "George Popadalis",
+      "excerpt": "We were so glad we choose George!!, from the beginning to the end of our house buying journey he was always there",
+      "reviewer_profile_url": "https://www.google.com/maps/contrib/103065008963303344638/reviews?hl=en-GB"
+    },
+    {
+      "position": 11,
+      "rating": 5,
+      "date_published": "2023-01-09",
+      "attribution_scope": "George Popadalis",
+      "excerpt": "Hands Down the best mortgage broker in Canberra that i've dealt with. George worked closely with my conveyancer",
+      "reviewer_profile_url": "https://www.google.com/maps/contrib/111485194801616237858/reviews?hl=en-GB"
+    },
+    {
+      "position": 12,
+      "rating": 5,
+      "date_published": "2022-12-13",
+      "attribution_scope": "Another adviser on the business listing",
+      "excerpt": "My wife and I recently refinanced our mortgage with the close guidance of Fetch Loans' Christopher Kang.",
+      "reviewer_profile_url": "https://www.google.com/maps/contrib/102978931857662593763/reviews?hl=en-GB"
+    },
+    {
+      "position": 13,
+      "rating": 5,
+      "date_published": "2022-11-23",
+      "attribution_scope": "George Popadalis",
+      "excerpt": "George is a great guy and works over time to get my loan. I message him at silly hours with silly questions",
+      "reviewer_profile_url": "https://www.google.com/maps/contrib/115298602479180633861/reviews?hl=en-GB"
+    }
+  ]
+}
